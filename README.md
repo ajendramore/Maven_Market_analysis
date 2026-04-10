@@ -70,12 +70,21 @@ Trend Analysis: Visualizing performance over time.
 Geographic Insights: Map visuals showing performance by territory.
 
 **Results & Insights**
-Trend: Identified a 73% increase in sales during end of December Specifically till Christmas.
+Trend: Identified a **73% increase in sales** during end of December Specifically till **Christmas 1987**.
 
-Efficiency: Found that Hermanos Red Pepper is most return while being 80 % of highest order.
+Efficiency: Found that Hermanos Red Pepper is **most return while being 80%** of highest order.
 
 **How to Run**
-Open the File: Ensure you have Power BI Desktop installed.
+
+Download the dataset (Maven+Market+CSV+Files).
+
+Open Power BI Desktop.
+
+Load the dataset using Power Query.
+
+Apply transformations as outlined in the project steps.
+
+Open the Mevan Market.pbix file to view the dashboard.
 
 Interact: Use the filters on the left-hand side of the dashboard to explore the data.
 
